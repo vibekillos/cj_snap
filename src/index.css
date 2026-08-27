@@ -1,6 +1,8 @@
 @import "tailwindcss";
 @import "./styles/fonts.css";
 
+/* add the dark mode and light mode switching */
+@custom-variant dark (&:where(.dark, .dark *));
 
 /* ================================
    TAILWIND FONT VARIABLES
@@ -10,4 +12,19 @@
     --font-inter : "Inter", sans-serif;
     --font-space : "Space Grotesk", sans-serif;
     --font-jet : "JetBrains Mono", monospace;
+}
+
+/* here we are defining the colors that we are going to be using */
+
+@theme {
+  --color-deep-black: #0a0a0b;
+  --color-dark-charcoal: #121214;
+  --color-card: #18181b;
+
+  --color-electric-blue: #3b82f6;
+  --color-cyan: #06b6d4;
+
+  --color-surface-white: #f8fafc;
+  --color-slate: #94a3b8;
+  --color-border: #27272a;
 }
