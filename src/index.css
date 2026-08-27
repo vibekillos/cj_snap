@@ -1,1 +1,13 @@
-@import "tailwindcss"
+@import "tailwindcss";
+@import "./styles/fonts.css";
+
+
+/* ================================
+   TAILWIND FONT VARIABLES
+================================ */
+
+@theme {
+    --font-inter : "Inter", sans-serif;
+    --font-space : "Space Grotesk", sans-serif;
+    --font-jet : "JetBrains Mono", monospace;
+}

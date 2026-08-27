@@ -1,0 +1,135 @@
+/* for the inter */
+
+@font-face {
+    font-family: "Inter";
+    src: url("../assets/fonts/Inter/static/Inter_18pt-Regular.ttf")
+            format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url("../assets/fonts/Inter/static/Inter_18pt-Medium.ttf")
+            format("truetype");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url("../assets/fonts/Inter/static/Inter_18pt-SemiBold.ttf")
+            format("truetype");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url("../assets/fonts/Inter/static/Inter_18pt-Bold.ttf")
+            format("truetype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url("../assets/fonts/Inter/static/Inter_18pt-Black.ttf")
+            format("truetype");
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/* for the space grotesk */
+
+@font-face {
+    font-family: "Space Grotesk";
+    src: url("../assets/fonts/Space_Grotesk/static/SpaceGrotesk-Regular.ttf")
+        format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Space Grotesk";
+    src: url("../assets/fonts/Space_Grotesk/static/SpaceGrotesk-Medium.ttf")
+        format("truetype");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Space Grotesk";
+    src: url("../assets/fonts/Space_Grotesk/static/SpaceGrotesk-SemiBold.ttf")
+        format("truetype");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Space Grotesk";
+    src: url("../assets/fonts/Space_Grotesk/static/SpaceGrotesk-Bold.ttf")
+        format("truetype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/* for the jetbrains mono */
+
+
+@font-face {
+    font-family: "JetBrains Mono";
+    src: url("../assets/fonts/JetBrains_Mono/static/JetBrainsMono-Regular.ttf")
+            format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "JetBrains Mono";
+    src: url("../assets/fonts/JetBrains_Mono/static/JetBrainsMono-Medium.ttf")
+            format("truetype");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "JetBrains Mono";
+    src: url("../assets/fonts/JetBrains_Mono/static/JetBrainsMono-SemiBold.ttf")
+            format("truetype");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "JetBrains Mono";
+    src: url("../assets/fonts/JetBrains_Mono/static/JetBrainsMono-Bold.ttf")
+            format("truetype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "JetBrains Mono";
+    src: url("../assets/fonts/JetBrains_Mono/static/JetBrainsMono-ExtraBold.ttf")
+            format("truetype");
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
